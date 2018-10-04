@@ -1,3 +1,4 @@
-### This is my new repo
+### New repo
 
-huzzah
+huzzah!
+
